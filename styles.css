@@ -27,3 +27,66 @@ footer {
     background-color: #333;
     color: white;
 }
+
+#work-experience {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#work-experience h2 {
+    color: #333;
+    font-size: 28px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.job h3 {
+    color: #555;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.job p.location {
+    font-style: italic;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.job ul {
+    margin-left: 20px;
+}
+
+.job ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+
+#projects {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#projects h2 {
+    color: #333;
+    font-size: 28px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.project h3 {
+    color: #555;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.project ul {
+    margin-left: 20px;
+}
+
+.project ul li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+
